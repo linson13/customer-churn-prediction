@@ -175,8 +175,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## 👤 Author
 
 Your Name
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
+- GitHub: [@yourusername](https://github.com/linson13)
+- LinkedIn: [Your Profile]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/linson-verghese-037887249/))
 
 ## 🙏 Acknowledgments
 
